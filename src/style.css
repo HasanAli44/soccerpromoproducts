@@ -2169,6 +2169,10 @@ video {
   line-height: 1.75rem;
 }
 
+.text-\[16px\] {
+  font-size: 16px;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -2688,6 +2692,14 @@ video {
 
 .hover\:bg-transparent:hover {
   background-color: transparent;
+}
+
+.hover\:bg-red\/80:hover {
+  background-color: rgb(255 67 1 / 0.8);
+}
+
+.hover\:bg-red\/90:hover {
+  background-color: rgb(255 67 1 / 0.9);
 }
 
 .hover\:font-bold:hover {
