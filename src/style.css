@@ -1962,8 +1962,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/img\/banner-img\.jpg\'\)\] {
-  background-image: url('../img/banner-img.jpg');
+.bg-\[url\(\'\.\.\/img\/banner-img\.png\'\)\] {
+  background-image: url('../img/banner-img.png');
 }
 
 .decoration-slice {
