@@ -766,6 +766,10 @@ video {
   margin-left: 4rem;
 }
 
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -784,10 +788,6 @@ video {
 
 .mt-3 {
   margin-top: 0.75rem;
-}
-
-.mr-1 {
-  margin-right: 0.25rem;
 }
 
 .mt-4 {
@@ -2812,6 +2812,11 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .md\:-mt-60 {
     margin-top: -15rem;
   }
